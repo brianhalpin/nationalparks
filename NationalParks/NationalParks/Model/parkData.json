@@ -1,0 +1,47 @@
+[
+    {
+    "id":"B39C368F-CB27-49EC-B2A9-E6C1552430FB"
+
+    ,"url":
+
+    "https://www.nps.gov/cali/index.htm"
+
+    ,"fullName":"California National Historic Trail"
+
+    ,"parkCode":"cali"
+
+    ,"description":"Follow in the footsteps of over 250,000 emigrants who traveled to the gold fields and rich farmlands of California during the 1840s and 1850s: the greatest mass migration in American history. The California National Historic Trail is over 5,000 miles long and covers portions of 10 states. Step into history along more than 1,000 miles of ruts and traces from travelers and their overland wagons."
+
+    ,"latitude":
+
+    "42.3999643979"
+
+    ,"longitude":
+
+    "-108.702415369"
+
+    ,"latLong":"lat:42.3999643979, long:-108.702415369"
+
+    ,"activities":[{"id":"5F723BAD-7359-48FC-98FA-631592256E35","name":"Auto and ATV"},{"id":"0B4A5320-216D-451A-9990-626E1D5ACE28","name":"Scenic Driving"},{"id":"B33DC9B6-0B7D-4322-BAD7-A13A34C584A3","name":"Guided Tours"},{"id":"C7D5A145-F8EB-4C37-9E92-2F6C6206B196","name":"Self-Guided Tours - Auto"},{"id":"BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA","name":"Hiking"},{"id":"0307955A-B65C-4CE4-A780-EB36BAAADF0B","name":"Horse Trekking"},{"id":"1886DA47-0AEC-4568-B9C2-8E9BC316AAAC","name":"Horseback Riding"},{"id":"C8F98B28-3C10-41AE-AA99-092B3B398C43","name":"Museum Exhibits"}]
+    ,"topics":[{"id":"28AEAE85-9DDA-45B6-981B-1CFCDCC61E14","name":"African American Heritage"},{"id":"7F81A0CB-B91F-4896-B9A5-41BE9A54A27B","name":"Archeology"},{"id":"00F3C3F9-2D67-4802-81AE-CCEA5D3BA370","name":"Arts"},{"id":"9BD60DC0-C82B-42BA-A170-456B7423429D","name":"Photography"},{"id":"156AD9B6-B377-418C-BC9A-F6E682D4BAF7","name":"Poetry and Literature"},{"id":"607D41B0-F830-4C07-A557-BCEF880A3929","name":"Burial, Cemetery and Gravesite"},{"id":"7F12224B-217A-4B07-A4A2-636B1CE7F221","name":"Colonization and Settlement"},{"id":"12EA2B56-17EC-410A-A10D-BFBA87A0669B","name":"Explorers and Expeditions"},{"id":"988B4AFC-F478-4673-B66D-E6BDB0CCFF35","name":"Forts"},{"id":"BEB7E470-13B2-4E00-84B2-0402D98DAF69","name":"Monuments and Memorials"},{"id":"A1BAF33E-EA84-4608-A888-4CEE9541F027","name":"Native American Heritage"},{"id":"27BF8807-54EA-4A3D-B073-AA7AA361CD7E","name":"Wars and Conflicts"},{"id":"C9C749E3-39C3-45F7-BCC5-9A609E30AA05","name":"Westward Expansion"},{"id":"83DDFE66-914E-4402-AD3E-ACA731AB2537","name":"The Gold Rush"},{"id":"4244F489-6813-4B7A-9D0C-20CE098C8FFF","name":"Rock Landscapes and Features"},{"id":"5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417","name":"Trails"}]
+    ,"states":"CA,CO,ID,KS,MO,NE,NV,OR,UT,WY"
+
+    ,"contacts":{"phoneNumbers":[{"phoneNumber":"505-988-6098","description":"","extension":"","type":"Voice"},{"phoneNumber":"505-988-6098","description":"","extension":"","type":"Fax"}],"emailAddresses":[{"description":"","emailAddress":"ntir_information@nps.gov"}]}
+    ,"entranceFees":[{"cost":"0.00","description":"There are no user or entry fees for the California National Historic Trail. Fees may be charged at some trail-related federal, state, or locally owned historic sites and interpretive facilities. Please contact individual trail sites before visiting for more information.","title":"Entrance fees vary site by site"}]
+    ,"entrancePasses":[]
+    ,"fees":[]
+    ,"directionsInfo":"Those portions of the California National Historic Trail authorized by Congress include nearly 2,000 miles of historic trail that was once the primary \"road\" taken by farmers, enterprising business managers, gold-seekers, and fortune hunters who chose to make a new life on the California frontier. The route passes through ten states from Missouri to California."
+
+    ,"directionsUrl":"http://www.nps.gov/cali/planyourvisit/directions.htm"
+
+    ,"operatingHours":[{"exceptions":[],"description":"The California National Historic Trail is not a clearly marked hiking trail. Instead it is a corridor that passes through communities, urban areas, public lands, and Wilderness. The route travels across a variety of land ownerships and management, including private land. Each location varies as to the hours of operation and access. Please contact individual trail sites before your visit for more information.","standardHours":{"wednesday":"All Day","monday":"All Day","thursday":"All Day","sunday":"All Day","tuesday":"All Day","friday":"All Day","saturday":"All Day"},"name":"California National Historic Trail"}]
+    ,"addresses":[{"postalCode":"87505","city":"Santa Fe","stateCode":"NM","line1":"National Trails Office Regions 6|7|8","type":"Physical","line3":"1100 Old Santa Fe Trail","line2":"California National Historic Trail"},{"postalCode":"87505","city":"Santa Fe","stateCode":"NM","line1":"National Trails Office Regions 6|7|8","type":"Mailing","line3":"1100 Old Santa Fe Trail","line2":"California National Historic Trail"}]
+    ,"images":[{"credit":"NPS Photo","title":"Wagon at Register Rock in City of Rocks National Reserve","altText":"A white canvas wagon sits in front of a large rock buttress with mountains in the distance.","caption":"Wagon at Register Rock in City of Rocks National Reserve","url":"https://www.nps.gov/common/uploads/structured_data/3C7B7987-1DD8-B71B-0B3C3123ED8F686B.jpg"},{"credit":"NPS Photo","title":"A creek in Carlin Canyon, Nevada on the California Trail","altText":"A still creek winds through brown rolling hills.","caption":"A creek in Carlin Canyon, Nevada on the California Trail","url":"https://www.nps.gov/common/uploads/structured_data/3C7B7CDA-1DD8-B71B-0B999C4AC7A9D37C.jpg"},{"credit":"NPS Photo","title":"Trail ruts on through Humboldt Wells in Nevada","altText":"A dirt road passes through sagebrush and a white post with a mountain in the background.","caption":"Trail ruts on through Humboldt Wells in Nevada","url":"https://www.nps.gov/common/uploads/structured_data/3C7B7E5D-1DD8-B71B-0B0A1BE6987E18AF.jpg"},{"credit":"NPS Photo","title":"Devil's Gate, Wyoming","altText":"A rock buttress with a notch in it surrounded by sagebrush flats.","caption":"Devil's Gate was an important emigrant landmark in Wyoming.","url":"https://www.nps.gov/common/uploads/structured_data/3C7B7FCF-1DD8-B71B-0BA502EF5988BC47.jpg"},{"credit":"NPS Photo","title":"View of West Pass on Carson Route","altText":"Pine trees partly obscure a distant mountain lake with snow-capped mountains.","caption":"View of West Pass on the Carson Route of the California NHT.","url":"https://www.nps.gov/common/uploads/structured_data/56ACD550-C0CE-423B-9448A9D0ABCDD9E7.jpg"}]
+    ,"weatherInfo":"Due to the length of the California National Historic Trail, be sure to consult local weather sources for the region you'll be visiting. Check out the forecast with the National Weather Service and search for the area you'd like to visit: weather.gov"
+
+    ,"name":"California"
+
+    ,"designation":"National Historic Trail"
+
+    }
+]
